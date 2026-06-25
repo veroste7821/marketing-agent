@@ -19,6 +19,9 @@ continente).
   en toda América (Norteamérica, Centroamérica, Caribe y Sudamérica, incluyendo Brasil).
 - **Dominio sugerido**: braverasoft.dev (alternativas: braverasoft.com, braverasoft.io,
   getbravera.com — verificar disponibilidad antes de registrar)
+- **Dominio local (Argentina)**: braverasoft.com.ar — verificado disponible (2026-06-25),
+  pendiente de registro. Recomendado registrarlo igual aunque el dominio principal sea
+  braverasoft.dev, para asegurar el nombre en el mercado local y redirigir al sitio principal.
 - **Handles sugeridos** (mismo handle en todas las redes): `@braverasoft` (alternativa si está
   tomado: `@bravera.soft`)
 

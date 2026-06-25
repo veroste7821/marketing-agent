@@ -23,7 +23,9 @@ visuales.
    donde se va a operar antes de registrar "Bravera Soft" legalmente. Esto es lo único
    bloqueante — el resto del kit ya está listo para usarse en paralelo a ese trámite.
 2. **Registrar el dominio.** Sugerido: `braverasoft.dev` (alternativas: `.com`, `.io`,
-   `getbravera.com`). Verificar disponibilidad antes de comprar.
+   `getbravera.com`). Verificar disponibilidad antes de comprar. `braverasoft.com.ar` ya
+   se verificó disponible (2026-06-25) — registrarlo también para asegurar el nombre en
+   el mercado local, aunque el dominio principal sea `.dev`; el registro queda pendiente.
 3. **Publicar el sitio.** El sitio en `website/` es estático: se puede desplegar tal cual
    en Netlify, Vercel, GitHub Pages o Cloudflare Pages sin build step. Apuntar el dominio
    registrado ahí.
