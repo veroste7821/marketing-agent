@@ -1,4 +1,4 @@
-# Calendario de contenido — Lanzamiento EllasTech (4 semanas)
+# Calendario de contenido — Lanzamiento Corazana (4 semanas)
 
 Referencias: "LI #N" = post N de `linkedin.md`, "IG #N" = post N de `instagram.md`, "IG Reel #N" = reel N de `instagram.md`, "TH #N" = post N de `threads.md`.
 
@@ -14,7 +14,7 @@ Referencias: "LI #N" = post N de `linkedin.md`, "IG #N" = post N de `instagram.m
 | Jueves | LinkedIn | LI #2 (Presentación del equipo/misión) |
 | Jueves | Instagram | IG #2 (Presentación del equipo) |
 | Viernes | Threads | TH #3 (Dato curioso) |
-| Sábado | Instagram | IG Reel #1 ("Así nace EllasTech") |
+| Sábado | Instagram | IG Reel #1 ("Así nace Corazana") |
 | Sábado | LinkedIn | — (descanso, dejar respirar el anuncio) |
 
 ## Semana 2 — Prueba social y casos de uso

@@ -1,20 +1,31 @@
-# EllasTech — Brand Book
+# Corazana — Brand Book
 
 ## Nombre y posicionamiento
-**EllasTech** — "Ellas" significa "ellas" en español y "elas" en portugués (mismo sonido), comunicando
-de forma directa e inmediata "hecho por mujeres" en los tres idiomas principales del continente
-(español, portugués, inglés), donde "Tech" se entiende universalmente.
+**Corazana** — deriva de "corazón" (ES) / "coração" (PT), comunicando calidez, cercanía y un
+trabajo hecho con propósito real, no solo discurso corporativo. Se lee y suena igual de bien en
+español, portugués e inglés (los tres idiomas principales del continente), y no es una palabra de
+diccionario: es un nombre propio, lo que reduce el riesgo de confusión con otras marcas. La
+identidad de mujeres-liderando-tecnología se comunica a través del posicionamiento y la narrativa de
+marca, no de forma literal en el nombre.
+
+> Nota de naming: se descartó el nombre original "EllasTech" por colisión directa con una empresa
+> de software existente (Elastech / getelastech.com, fonéticamente idéntica). Se recomienda que el
+> fundador haga una búsqueda formal de marca registrada en los países objetivo antes de registrar
+> "Corazana" legalmente; la verificación hecha aquí fue solo una búsqueda web exploratoria.
 
 - **Categoría**: Software house / consultora de desarrollo de software.
 - **Diferencial**: Equipo 100% liderado y compuesto por mujeres, con alcance y equipos distribuidos
   en toda América (Norteamérica, Centroamérica, Caribe y Sudamérica, incluyendo Brasil).
-- **Dominio sugerido**: ellastech.dev (alternativas: ellastech.com, ellastech.io, getellastech.com)
-- **Handles sugeridos** (mismo handle en todas las redes): `@ellastech`
+- **Dominio sugerido**: corazana.dev (alternativas: corazana.io, getcorazana.com, corazanatech.com
+  — verificar disponibilidad antes de registrar, ya que corazana.com está tomado por un tercero sin
+  relación con software)
+- **Handles sugeridos** (mismo handle en todas las redes): `@corazana` (alternativa si está tomado:
+  `@corazanatech`)
 
 ## Tagline
 - ES (principal): **"Software hecho por mujeres, para toda América."**
-- ES corta: **"Tecnología sin fronteras, liderada por mujeres."**
-- EN: **"Software built by women. For the whole Americas."**
+- ES corta: **"Tecnología con corazón, liderada por mujeres."**
+- EN: **"Software built by women. With heart, for the whole Americas."**
 - PT: **"Software feito por mulheres, para toda a América."**
 
 ## Misión
@@ -60,10 +71,11 @@ concretos, no solo discurso de propósito.
 - Cuerpo: **Inter** — Google Fonts
 
 ### Logo (concepto)
-Wordmark "**Ellas**" en peso bold (violeta) + "**Tech**" en peso regular (casi negro), acompañado
-de un isotipo: silueta abstracta del continente americano atravesada/unida por un hilo continuo
-(efecto "stitch"/puntada), en gradiente coral → turquesa. Simboliza mujeres tejiendo el continente
-a través de la tecnología. El isotipo funciona solo como ícono de perfil/favicon.
+Wordmark "**Corazana**" en una sola pieza, peso bold, en violeta (`#5B2A86`), fuente Sora.
+Isotipo: silueta abstracta del continente americano con un pequeño corte/hueco en forma de corazón
+en su interior, atravesado por un hilo continuo en gradiente coral → turquesa que entra y sale del
+corazón (efecto "stitch"/puntada). Simboliza un continente unido por mujeres que trabajan con
+propósito real. El isotipo funciona solo como ícono de perfil/favicon.
 
 ### Tono fotográfico/gráfico
 Formas geométricas suaves, gradientes coral-turquesa-violeta, ilustración flat de mapa de América,
