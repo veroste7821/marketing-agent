@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- SEO / Meta básicos -->
+  <title>EllasTech — Software hecho por mujeres, para toda América</title>
+  <meta name="description" content="EllasTech es una software house liderada 100% por mujeres, con equipos distribuidos en toda América. Desarrollo web, mobile, cloud, IA aplicada y staff augmentation con excelencia enterprise." />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="EllasTech — Software hecho por mujeres, para toda América" />
+  <meta property="og:description" content="Software house liderada 100% por mujeres, con alcance panamericano. Desarrollo web, mobile, cloud, datos e IA aplicada." />
+  <meta property="og:image" content="../brand-assets/social/og-image.png" />
+  <meta property="og:locale" content="es_LA" />
+
+  <!-- Favicon (isotipo, se genera por otro agente) -->
+  <link rel="icon" type="image/svg+xml" href="../brand-assets/logo.svg" />
+
+  <!-- Google Fonts: Sora (encabezados) + Inter (cuerpo) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- ===================== HEADER / NAV ===================== -->
+  <header class="site-header" id="top">
+    <div class="container header-inner">
+      <a href="#top" class="logo" aria-label="EllasTech - inicio">
+        <img
+          src="../brand-assets/logo.svg"
+          alt="EllasTech"
+          class="logo-img"
+          onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-flex';" />
+        <span class="logo-text" style="display:none;"><strong>Ellas</strong>Tech</span>
+      </a>
+
+      <nav class="main-nav" id="main-nav" aria-label="Navegación principal">
+        <ul>
+          <li><a href="#mision" data-i18n="nav.mision">Misión</a></li>
+          <li><a href="#servicios" data-i18n="nav.servicios">Servicios</a></li>
+          <li><a href="#alcance" data-i18n="nav.alcance">Alcance</a></li>
+          <li><a href="#impacto" data-i18n="nav.impacto">Impacto</a></li>
+          <li><a href="#contacto" data-i18n="nav.contacto">Contacto</a></li>
+        </ul>
+      </nav>
+
+      <div class="header-actions">
+        <button class="lang-toggle" id="lang-toggle" type="button" aria-label="Cambiar idioma / Switch language">
+          <span class="lang-option lang-active" data-lang="es">ES</span>
+          <span class="lang-sep">/</span>
+          <span class="lang-option" data-lang="en">EN</span>
+        </button>
+        <a href="#contacto" class="btn btn-primary" data-i18n="nav.cta">Trabajemos juntas</a>
+      </div>
+
+      <button class="nav-burger" id="nav-burger" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="main-nav">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <!-- ===================== HERO ===================== -->
+    <section class="hero">
+      <div class="container hero-inner">
+        <h1 class="hero-title" data-i18n="hero.title">Software hecho por mujeres,<br />para toda América.</h1>
+        <p class="hero-subtitle" data-i18n="hero.subtitle">
+          Equipos 100% liderados por mujeres entregando desarrollo de software de nivel enterprise,
+          desde México hasta Argentina, de Canadá a Brasil.
+        </p>
+        <div class="hero-ctas">
+          <a href="#contacto" class="btn btn-primary btn-lg" data-interest="cliente" data-i18n="hero.ctaClient">Cotiza tu proyecto</a>
+          <a href="#contacto" class="btn btn-outline btn-lg" data-interest="talento" data-i18n="hero.ctaTalent">Únete al equipo</a>
+        </div>
+      </div>
+      <div class="hero-blob" aria-hidden="true"></div>
+    </section>
+
+    <!-- ===================== POR QUÉ ELLASTECH (MISIÓN + PILARES) ===================== -->
+    <section class="section" id="mision">
+      <div class="container">
+        <span class="eyebrow" data-i18n="mision.eyebrow">Por qué EllasTech</span>
+        <h2 class="section-title fade-in" data-i18n="mision.title">Nuestra misión</h2>
+        <p class="section-lead fade-in" data-i18n="mision.lead">
+          Ser la red líder de desarrollo de software liderada por mujeres en América, entregando
+          soluciones tecnológicas de calidad enterprise a empresas de todo el continente, mientras
+          construimos el mayor pipeline de talento femenino en tecnología de la región.
+        </p>
+
+        <div class="grid grid-4 pillars">
+          <div class="card fade-in">
+            <div class="card-icon" aria-hidden="true">🤝</div>
+            <h3 data-i18n="pillars.p1.title">Sororidad y talento</h3>
+            <p data-i18n="pillars.p1.text">Red de desarrolladoras, diseñadoras y líderes tech de México a Argentina, de Canadá a Brasil.</p>
+          </div>
+          <div class="card fade-in">
+            <div class="card-icon" aria-hidden="true">⚙️</div>
+            <h3 data-i18n="pillars.p2.title">Excelencia técnica</h3>
+            <p data-i18n="pillars.p2.text">Entregas de nivel enterprise: web, mobile, cloud, datos e IA aplicada.</p>
+          </div>
+          <div class="card fade-in">
+            <div class="card-icon" aria-hidden="true">🌎</div>
+            <h3 data-i18n="pillars.p3.title">Alcance panamericano</h3>
+            <p data-i18n="pillars.p3.text">Equipos distribuidos, cobertura de husos horarios de todo el continente, trabajo remoto-first.</p>
+          </div>
+          <div class="card fade-in">
+            <div class="card-icon" aria-hidden="true">💜</div>
+            <h3 data-i18n="pillars.p4.title">Impacto con propósito</h3>
+            <p data-i18n="pillars.p4.text">Un porcentaje de cada proyecto financia becas de programación para mujeres en la región.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================== SERVICIOS ===================== -->
+    <section class="section section-alt" id="servicios">
+      <div class="container">
+        <span class="eyebrow" data-i18n="servicios.eyebrow">Lo que hacemos</span>
+        <h2 class="section-title fade-in" data-i18n="servicios.title">Servicios</h2>
+
+        <div class="grid grid-5 services">
+          <div class="card service-card fade-in">
+            <div class="card-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M9 17.25v1.007a3 3 0 0 1-.879 2.122L7.5 21h9l-.621-.621A3 3 0 0 1 15 18.257V17.25m6-12V15a2.25 2.25 0 0 1-2.25 2.25H5.25A2.25 2.25 0 0 1 3 15V5.25m18 0A2.25 2.25 0 0 0 18.75 3H5.25A2.25 2.25 0 0 0 3 5.25m18 0V12a2.25 2.25 0 0 1-2.25 2.25H5.25A2.25 2.25 0 0 1 3 12V5.25"/></svg>
+            </div>
+            <h3 data-i18n="services.s1.title">Desarrollo web &amp; mobile a medida</h3>
+            <p data-i18n="services.s1.text">Productos digitales a la medida de tu negocio, de extremo a extremo.</p>
+          </div>
+          <div class="card service-card fade-in">
+            <div class="card-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M2.25 15a4.5 4.5 0 0 0 4.5 4.5H18a3.75 3.75 0 0 0 1.332-7.257 3 3 0 0 0-3.758-3.848 5.25 5.25 0 0 0-10.048 2.51A4.5 4.5 0 0 0 2.25 15Z"/></svg>
+            </div>
+            <h3 data-i18n="services.s2.title">Cloud, DevOps &amp; arquitectura</h3>
+            <p data-i18n="services.s2.text">Infraestructura escalable, segura y lista para crecer junto a tu producto.</p>
+          </div>
+          <div class="card service-card fade-in">
+            <div class="card-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M9.53 16.122a3 3 0 0 0-5.78 1.128 2.25 2.25 0 0 1-2.4 2.245 4.5 4.5 0 0 0 8.4-2.245c0-.399-.078-.78-.22-1.128Zm0 0a15.998 15.998 0 0 0 3.388-1.62m-5.043-.025a15.994 15.994 0 0 1 1.622-3.395m3.42 3.42a6.704 6.704 0 0 0-3.42-3.42m3.42 3.42a6.91 6.91 0 0 0 2.022-3.197 6.91 6.91 0 0 0-3.197 2.022"/></svg>
+            </div>
+            <h3 data-i18n="services.s3.title">Producto digital (UX/UI)</h3>
+            <p data-i18n="services.s3.text">Investigación y diseño centrados en las personas que usarán tu producto.</p>
+          </div>
+          <div class="card service-card fade-in">
+            <div class="card-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M9.75 3.104v5.714a2.25 2.25 0 0 1-.659 1.591L5 14.5M9.75 3.104c-.251.023-.501.05-.75.082m.75-.082a24.301 24.301 0 0 1 4.5 0m0 0v5.714c0 .597.237 1.17.659 1.591L19.8 15.3M14.25 3.104c.251.023.501.05.75.082M19.8 15.3l-1.57.393A9.065 9.065 0 0 1 12 16.5a9.065 9.065 0 0 1-6.23-.807L5 14.5M19.8 15.3l1.402 1.402c1.232 1.232.65 3.318-1.067 3.611A48.309 48.309 0 0 1 12 21c-2.773 0-5.491-.235-8.135-.687-1.718-.293-2.3-2.379-1.067-3.61L5 14.5"/></svg>
+            </div>
+            <h3 data-i18n="services.s4.title">IA aplicada a negocio</h3>
+            <p data-i18n="services.s4.text">Automatización e inteligencia artificial con impacto real y medible.</p>
+          </div>
+          <div class="card service-card fade-in">
+            <div class="card-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M18 18.72a9.094 9.094 0 0 0 3.741-.479 3 3 0 0 0-4.682-2.72m.94 3.198.001.031c0 .225-.012.447-.037.666A11.944 11.944 0 0 1 12 21c-2.17 0-4.207-.576-5.963-1.584A6.062 6.062 0 0 1 6 18.719m12 0a5.971 5.971 0 0 0-.941-3.197m0 0A5.995 5.995 0 0 0 12 12.75a5.995 5.995 0 0 0-5.058 2.772m0 0a3 3 0 0 0-4.681 2.72 8.986 8.986 0 0 0 3.74.477m.94-3.197a5.971 5.971 0 0 0-.94 3.197M15 6.75a3 3 0 1 1-6 0 3 3 0 0 1 6 0Zm6 3a2.25 2.25 0 1 1-4.5 0 2.25 2.25 0 0 1 4.5 0Zm-13.5 0a2.25 2.25 0 1 1-4.5 0 2.25 2.25 0 0 1 4.5 0Z"/></svg>
+            </div>
+            <h3 data-i18n="services.s5.title">Consultoría &amp; equipos dedicados</h3>
+            <p data-i18n="services.s5.text">Staff augmentation con talento senior, listo para integrarse a tu equipo.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================== ALCANCE PANAMERICANO ===================== -->
+    <section class="section" id="alcance">
+      <div class="container">
+        <span class="eyebrow" data-i18n="alcance.eyebrow">Equipos distribuidos</span>
+        <h2 class="section-title fade-in" data-i18n="alcance.title">Alcance panamericano</h2>
+        <p class="section-lead fade-in" data-i18n="alcance.lead">
+          Cobertura de husos horarios de todo el continente, trabajo remoto-first. Donde estés, ahí estamos.
+        </p>
+
+        <div class="regions-grid fade-in">
+          <div class="region-chip"><span class="region-flag" aria-hidden="true">🇨🇦</span><span data-i18n="regions.ca">Canadá</span></div>
+          <div class="region-chip"><span class="region-flag" aria-hidden="true">🇺🇸</span><span data-i18n="regions.us">Estados Unidos</span></div>
+          <div class="region-chip"><span class="region-flag" aria-hidden="true">🇲🇽</span><span data-i18n="regions.mx">México</span></div>
+          <div class="region-chip"><span class="region-flag" aria-hidden="true">🌴</span><span data-i18n="regions.ca2">Centroamérica</span></div>
+          <div class="region-chip"><span class="region-flag" aria-hidden="true">🏝️</span><span data-i18n="regions.car">Caribe</span></div>
+          <div class="region-chip"><span class="region-flag" aria-hidden="true">🇧🇷</span><span data-i18n="regions.br">Brasil</span></div>
+          <div class="region-chip"><span class="region-flag" aria-hidden="true">🌎</span><span data-i18n="regions.sa">Sudamérica</span></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================== IMPACTO ===================== -->
+    <section class="section section-impact" id="impacto">
+      <div class="container impact-inner">
+        <div class="impact-text fade-in">
+          <span class="eyebrow eyebrow-light" data-i18n="impacto.eyebrow">Impacto con propósito</span>
+          <h2 class="section-title" data-i18n="impacto.title">Becas para mujeres en tech</h2>
+          <p data-i18n="impacto.text">
+            Un porcentaje de cada proyecto que desarrollamos financia becas de programación para
+            mujeres en toda la región. Crecemos como negocio y, al mismo tiempo, ampliamos el
+            pipeline de talento femenino en tecnología en América. No es solo discurso: es un
+            compromiso medible, proyecto a proyecto.
+          </p>
+        </div>
+        <div class="impact-stats fade-in">
+          <div class="stat">
+            <span class="stat-num">100%</span>
+            <span class="stat-label" data-i18n="impacto.stat1">Liderazgo femenino</span>
+          </div>
+          <div class="stat">
+            <span class="stat-num">+10</span>
+            <span class="stat-label" data-i18n="impacto.stat2">Países de alcance</span>
+          </div>
+          <div class="stat">
+            <span class="stat-num">∞</span>
+            <span class="stat-label" data-i18n="impacto.stat3">Compromiso con becas</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================== CONTACTO / CTA FINAL ===================== -->
+    <section class="section section-alt" id="contacto">
+      <div class="container">
+        <span class="eyebrow" data-i18n="contacto.eyebrow">Hablemos</span>
+        <h2 class="section-title fade-in" data-i18n="contacto.title">Trabajemos juntas</h2>
+        <p class="section-lead fade-in" data-i18n="contacto.lead">
+          Contanos qué necesitás: ya seas una empresa buscando un partner de desarrollo, o una
+          profesional tech buscando sumarte a la red.
+        </p>
+
+        <form class="contact-form fade-in" id="contact-form" novalidate>
+          <div class="form-row">
+            <label for="name" data-i18n="form.name">Nombre</label>
+            <input type="text" id="name" name="name" required />
+          </div>
+          <div class="form-row">
+            <label for="email" data-i18n="form.email">Email</label>
+            <input type="email" id="email" name="email" required />
+          </div>
+          <div class="form-row">
+            <label data-i18n="form.interest">Tipo de interés</label>
+            <div class="radio-group">
+              <label class="radio-option">
+                <input type="radio" name="interest" value="cliente" checked />
+                <span data-i18n="form.interestClient">Soy cliente</span>
+              </label>
+              <label class="radio-option">
+                <input type="radio" name="interest" value="talento" />
+                <span data-i18n="form.interestTalent">Soy talento</span>
+              </label>
+            </div>
+          </div>
+          <div class="form-row">
+            <label for="message" data-i18n="form.message">Mensaje</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary btn-lg" data-i18n="form.submit">Enviar mensaje</button>
+          <p class="form-success" id="form-success" role="status" aria-live="polite" hidden data-i18n="form.success">
+            ¡Gracias! Recibimos tu mensaje y te contactaremos pronto.
+          </p>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <!-- ===================== FOOTER ===================== -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <a href="#top" class="logo logo-footer" aria-label="EllasTech - inicio">
+          <img
+            src="../brand-assets/logo.svg"
+            alt="EllasTech"
+            class="logo-img"
+            onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-flex';" />
+          <span class="logo-text" style="display:none;"><strong>Ellas</strong>Tech</span>
+        </a>
+        <p class="footer-tagline" data-i18n="footer.tagline">Tecnología sin fronteras, liderada por mujeres.</p>
+      </div>
+
+      <nav class="footer-social" aria-label="Redes sociales">
+        <!-- TODO: reemplazar "#" por la URL real cuando se cree cada cuenta @ellastech -->
+        <a href="#" target="_blank" rel="noopener" aria-label="EllasTech en LinkedIn">LinkedIn</a>
+        <a href="#" target="_blank" rel="noopener" aria-label="EllasTech en Instagram">Instagram</a>
+        <a href="#" target="_blank" rel="noopener" aria-label="EllasTech en Threads">Threads</a>
+      </nav>
+
+      <p class="footer-copy">&copy; <span id="year"></span> EllasTech. <span data-i18n="footer.rights">Todos los derechos reservados.</span></p>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
