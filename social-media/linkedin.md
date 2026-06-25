@@ -1,10 +1,10 @@
-# LinkedIn — Bravera Soft
+# LinkedIn — Bravera
 
 ## Datos de la página
 
 | Campo | Valor sugerido |
 |---|---|
-| Nombre de página | Bravera Soft |
+| Nombre de página | Bravera |
 | URL / handle | linkedin.com/company/braverasoft |
 | Tagline (header) | Software hecho por mujeres, para toda América. |
 | Sector/industria | Desarrollo de software |
@@ -15,11 +15,11 @@
 
 ## Bio / Resumen (sección "Acerca de")
 
-Bravera Soft es la software house liderada 100% por mujeres que conecta talento tech de México a Argentina, de Canadá a Brasil, con empresas que buscan un partner de desarrollo confiable y con valores reales.
+Bravera es la software house liderada 100% por mujeres que conecta talento tech de México a Argentina, de Canadá a Brasil, con empresas que buscan un partner de desarrollo confiable y con valores reales.
 
 Diseñamos y construimos producto digital, web, mobile, cloud e IA aplicada con estándares enterprise, con equipos distribuidos en toda América que cubren tus husos horarios sin fricción.
 
-Un porcentaje de cada proyecto que entregamos financia becas de programación para mujeres en la región, así que cuando trabajas con Bravera Soft, también estás invirtiendo en la próxima generación de desarrolladoras.
+Un porcentaje de cada proyecto que entregamos financia becas de programación para mujeres en la región, así que cuando trabajas con Bravera, también estás invirtiendo en la próxima generación de desarrolladoras.
 
 ¿Buscas un equipo dedicado o un proyecto a medida? Escríbenos y conversemos sobre tu próximo producto.
 
@@ -29,7 +29,7 @@ Un porcentaje de cada proyecto que entregamos financia becas de programación pa
 
 ### 1. Post de anuncio de lanzamiento
 
-Hoy presentamos Bravera Soft.
+Hoy presentamos Bravera.
 
 Somos una software house liderada 100% por mujeres, con equipos distribuidos de México a Argentina, de Canadá a Brasil. Construimos producto digital, web, mobile, cloud e IA aplicada con estándares enterprise, para empresas de toda América.
 
@@ -37,15 +37,15 @@ No nacimos para ser la excepción. Nacimos para demostrar que un equipo de desar
 
 Cada proyecto que entregamos también financia becas de programación para mujeres en la región. Crecemos nosotras, y ayudamos a crecer a la próxima generación.
 
-Bienvenidos a Bravera Soft. Software hecho por mujeres, para toda América.
+Bienvenidos a Bravera. Software hecho por mujeres, para toda América.
 
-#Bravera Soft #MujeresEnTech #SoftwareHouse #DesarrolloDeSoftware #LATAM #TechParaTodos
+#Bravera #MujeresEnTech #SoftwareHouse #DesarrolloDeSoftware #LATAM #TechParaTodos
 
 ---
 
 ### 2. Presentación del equipo / misión
 
-¿Quiénes somos en Bravera Soft?
+¿Quiénes somos en Bravera?
 
 Somos desarrolladoras, diseñadoras, arquitectas de software y líderes de proyecto repartidas por todo el continente: Ciudad de México, Bogotá, São Paulo, Buenos Aires, Toronto, San Juan, y varias ciudades más.
 
@@ -55,7 +55,7 @@ No competimos solo en talento. Competimos en resultados. Y resulta que cuando le
 
 Si eres una empresa que valora la diversidad real (no la de membrete) o una desarrolladora que busca una comunidad donde crecer, este es tu lugar.
 
-#Bravera Soft #SororidadTech #TalentoFemenino #DesarrolloDeSoftware #América
+#Bravera #SororidadTech #TalentoFemenino #DesarrolloDeSoftware #América
 
 ---
 
@@ -63,7 +63,7 @@ Si eres una empresa que valora la diversidad real (no la de membrete) o una desa
 
 Un cliente llegó a nosotros con un problema típico: su producto digital necesitaba escalar a nuevos mercados en América Latina, pero su equipo interno no tenía la capacidad ni el conocimiento de arquitectura cloud para sostener el crecimiento.
 
-En Bravera Soft armamos un equipo dedicado: una arquitecta cloud, dos desarrolladoras full-stack y una especialista en UX research, trabajando en el mismo huso horario que el cliente.
+En Bravera armamos un equipo dedicado: una arquitecta cloud, dos desarrolladoras full-stack y una especialista en UX research, trabajando en el mismo huso horario que el cliente.
 
 Resultado: migración a una arquitectura cloud escalable, reducción de tiempos de carga, y una base de producto lista para crecer en cinco países simultáneamente.
 
@@ -71,13 +71,13 @@ Esto es lo que hacemos: equipos dedicados o proyectos a medida, con la rigurosid
 
 ¿Tu producto necesita escalar? Hablemos.
 
-#CloudComputing #StaffAugmentation #DesarrolloDeSoftware #Bravera Soft #CasoDeÉxito
+#CloudComputing #StaffAugmentation #DesarrolloDeSoftware #Bravera #CasoDeÉxito
 
 ---
 
 ### 4. Pilar de impacto / becas
 
-En Bravera Soft, cada proyecto que firmamos hace dos cosas: resuelve un problema de negocio real, y financia una beca de programación para una mujer en América Latina.
+En Bravera, cada proyecto que firmamos hace dos cosas: resuelve un problema de negocio real, y financia una beca de programación para una mujer en América Latina.
 
 No es marketing de impacto. Es parte de nuestro modelo de negocio. Un porcentaje de cada contrato va directo a becas que cubren cursos, mentorías y certificaciones para mujeres que están entrando a la industria tech.
 
@@ -85,7 +85,7 @@ Creemos que la mejor forma de cerrar la brecha de género en tecnología no es s
 
 Si trabajas con nosotros, no solo contratas un equipo de excelencia técnica. Inviertes en la próxima generación de desarrolladoras de la región.
 
-#ImpactoConPropósito #BecasTech #MujeresEnTech #Bravera Soft #LATAM
+#ImpactoConPropósito #BecasTech #MujeresEnTech #Bravera #LATAM
 
 ---
 
@@ -93,7 +93,7 @@ Si trabajas con nosotros, no solo contratas un equipo de excelencia técnica. In
 
 ¿Eres desarrolladora, diseñadora UX/UI, arquitecta cloud o data scientist en algún país de América?
 
-Bravera Soft está construyendo la red de talento tech femenino más sólida del continente, y estamos buscando sumar a más mujeres a proyectos remotos con clientes en toda América.
+Bravera está construyendo la red de talento tech femenino más sólida del continente, y estamos buscando sumar a más mujeres a proyectos remotos con clientes en toda América.
 
 Lo que ofrecemos: proyectos reales con empresas serias, equipos que se respaldan entre sí, flexibilidad de huso horario, y una comunidad donde tu crecimiento profesional importa tanto como la entrega del proyecto.
 
@@ -101,7 +101,7 @@ No buscamos llenar una cuota. Buscamos talento que eleve el estándar técnico d
 
 Si esto te suena a tu próximo paso profesional, déjanos tu portafolio o escríbenos directamente.
 
-#Reclutamiento #TrabajoRemoto #MujeresEnTech #DesarrolladorasLATAM #Bravera Soft
+#Reclutamiento #TrabajoRemoto #MujeresEnTech #DesarrolladorasLATAM #Bravera
 
 ---
 
@@ -111,17 +111,17 @@ Un dato que no debería sorprender pero todavía sorprende: los equipos de desar
 
 Sin embargo, en América Latina las mujeres siguen representando una minoría en roles técnicos senior, no por falta de talento, sino por falta de acceso, mentoría y oportunidades reales de crecer en proyectos de alto nivel.
 
-En Bravera Soft vemos esto todos los días desde el otro lado: mujeres con capacidad técnica sobrada que solo necesitaban la oportunidad correcta para liderar proyectos enterprise.
+En Bravera vemos esto todos los días desde el otro lado: mujeres con capacidad técnica sobrada que solo necesitaban la oportunidad correcta para liderar proyectos enterprise.
 
 La brecha no es de talento. Es de acceso. Y esa es exactamente la brecha que estamos cerrando, un proyecto a la vez.
 
-#MujeresEnTech #DiversidadEnTecnología #LATAM #ThoughtLeadership #Bravera Soft
+#MujeresEnTech #DiversidadEnTecnología #LATAM #ThoughtLeadership #Bravera
 
 ---
 
 ### 7. Detrás de cámaras
 
-Un día normal en Bravera Soft puede significar: una daily stand-up con desarrolladoras en cuatro países distintos, una sesión de pair programming entre São Paulo y Ciudad de México, y una mentoría informal de una senior a una junior que recién se sumó a un proyecto.
+Un día normal en Bravera puede significar: una daily stand-up con desarrolladoras en cuatro países distintos, una sesión de pair programming entre São Paulo y Ciudad de México, y una mentoría informal de una senior a una junior que recién se sumó a un proyecto.
 
 Así se ve un equipo distribuido que funciona: no por la cercanía geográfica, sino por la cercanía de propósito.
 
@@ -129,7 +129,7 @@ Nuestro trabajo no siempre es glamoroso (hay sprints intensos, deploys a media n
 
 Así construimos software, y así construimos comunidad.
 
-#DetrásDeCámaras #CulturaRemota #EquiposDistribuidos #Bravera Soft #TechLATAM
+#DetrásDeCámaras #CulturaRemota #EquiposDistribuidos #Bravera #TechLATAM
 
 ---
 
@@ -137,7 +137,7 @@ Así construimos software, y así construimos comunidad.
 
 ¿Tienes un proyecto de software en mente y no sabes por dónde empezar?
 
-En Bravera Soft trabajamos contigo desde la idea hasta la entrega: desarrollo web y mobile a medida, arquitectura cloud, producto digital, IA aplicada a negocio, o un equipo dedicado que se integra a tu operación.
+En Bravera trabajamos contigo desde la idea hasta la entrega: desarrollo web y mobile a medida, arquitectura cloud, producto digital, IA aplicada a negocio, o un equipo dedicado que se integra a tu operación.
 
 Sin letra chica, sin discurso vacío de "transformación digital". Conversamos sobre tu problema real, te decimos con honestidad si podemos ayudarte, y si la respuesta es sí, armamos una propuesta concreta con tiempos y costos claros.
 
@@ -145,7 +145,7 @@ Escríbenos y cuéntanos en qué estás trabajando. La primera conversación no 
 
 📩 Cotiza tu proyecto: link en nuestro perfil.
 
-#CotizaTuProyecto #DesarrolloDeSoftware #SoftwareHouse #Bravera Soft #América
+#CotizaTuProyecto #DesarrolloDeSoftware #SoftwareHouse #Bravera #América
 
 ## Cadencia de publicación sugerida
 

@@ -1,4 +1,4 @@
-# Bravera Soft — Kit de lanzamiento
+# Bravera — Kit de lanzamiento
 
 Software house liderada 100% por mujeres, con alcance panamericano (Norteamérica,
 Centroamérica, Caribe, Sudamérica y Brasil). Este repo contiene todo lo necesario para
@@ -20,7 +20,7 @@ visuales.
 1. **Verificar disponibilidad legal del nombre.** `BRAND.md` ya marca un riesgo: existe
    "Brava Software Solutions" (bravasoftware.com) en el mismo rubro, a una letra de
    distancia de "Bravera". Hacer una búsqueda formal de marca registrada en los países
-   donde se va a operar antes de registrar "Bravera Soft" legalmente. Esto es lo único
+   donde se va a operar antes de registrar "Bravera" legalmente. Esto es lo único
    bloqueante — el resto del kit ya está listo para usarse en paralelo a ese trámite.
 2. **Registrar el dominio.** Sugerido: `braverasoft.dev` (alternativas: `.com`, `.io`,
    `getbravera.com`). Verificar disponibilidad antes de comprar. `braverasoft.com.ar` ya

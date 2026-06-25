@@ -1,16 +1,17 @@
-# Bravera Soft — Brand Book
+# Bravera — Brand Book
 
 ## Nombre y posicionamiento
-**Bravera Soft** — "Bravera" deriva de "brava/valiente" en español (mujer fuerte, decidida, que no
-se achica), combinado con "Soft" (software), comunicando una marca de tecnología hecha por mujeres
-valientes. Se lee con fluidez en español, portugués e inglés (los tres idiomas principales del
-continente).
+**Bravera** — deriva de "brava/valiente" en español (mujer fuerte, decidida, que no se achica),
+comunicando una marca de tecnología hecha por mujeres valientes. Se lee con fluidez en español,
+portugués e inglés (los tres idiomas principales del continente). El dominio y el handle conservan
+"soft" (braverasoft.dev, @braverasoft) como guiño a "software", aunque el nombre de marca es
+simplemente "Bravera".
 
 > Nota de naming: el nombre fue elegido directamente por el fundador. Búsqueda exploratoria
 > detectó un vecino cercano en el mismo rubro — **Brava Software Solutions** (bravasoftware.com,
 > estudio de software a medida) — a una sola letra de distancia de "Bravera". No es una colisión
 > idéntica como la de "EllasTech"/"Elastech", pero sí vale la pena que el fundador haga una
-> búsqueda formal de marca registrada en los países objetivo antes de registrar "Bravera Soft"
+> búsqueda formal de marca registrada en los países objetivo antes de registrar "Bravera"
 > legalmente, y que considere reforzar el diferencial visual/verbal frente a "Brava" en el
 > mercado angloparlante.
 
@@ -74,11 +75,10 @@ concretos, no solo discurso de propósito.
 - Cuerpo: **Inter** — Google Fonts
 
 ### Logo (concepto)
-Wordmark "**Bravera**" en peso bold (violeta `#5B2A86`) + "**Soft**" en peso regular (casi negro
-`#1F1B24`), fuente Sora. Isotipo: silueta abstracta del continente americano con un pequeño
-corte/hueco en su interior, atravesado por un hilo continuo en gradiente coral → turquesa que entra
-y sale de ese hueco (efecto "stitch"/puntada). Simboliza un continente unido por mujeres que
-trabajan con propósito real. El isotipo funciona solo como ícono de perfil/favicon.
+Isotipo: monograma "**B**" en fuente Sora (peso extra bold), relleno con degradado diagonal
+violeta `#5B2A86` → coral `#FF6B5B` → turquesa `#14B8A6`. Funciona solo como ícono de
+perfil/favicon. Wordmark: "**Bravera**" en violeta `#5B2A86`, fuente Sora bold, usado junto al
+isotipo en el lockup principal del sitio y materiales de marca.
 
 ### Tono fotográfico/gráfico
 Formas geométricas suaves, gradientes coral-turquesa-violeta, ilustración flat de mapa de América,

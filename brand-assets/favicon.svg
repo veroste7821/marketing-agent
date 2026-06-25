@@ -1,26 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 260" width="32" height="32" role="img" aria-label="Bravera Soft favicon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="32" height="32" role="img" aria-label="Bravera favicon">
   <defs>
-    <linearGradient id="threadFav" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FF6B5B"/>
+    <linearGradient id="bGrad" x1="10%" y1="0%" x2="90%" y2="100%">
+      <stop offset="0%" stop-color="#5B2A86"/>
+      <stop offset="50%" stop-color="#FF6B5B"/>
       <stop offset="100%" stop-color="#14B8A6"/>
     </linearGradient>
-    <mask id="cutFav">
-      <rect x="0" y="0" width="200" height="260" fill="white"/>
-      <circle cx="118" cy="138" r="26" fill="black"/>
-    </mask>
   </defs>
-
-  <path mask="url(#cutFav)" fill="#5B2A86" d="
-    M 100 10
-    C 145 8 178 38 172 80
-    C 168 118 182 158 162 192
-    C 150 222 116 248 88 250
-    C 58 252 28 204 30 158
-    C 20 130 16 90 40 60
-    C 56 30 72 12 100 10
-    Z
-  "/>
-
-  <path d="M 88 138 C 100 126 112 150 124 138 C 132 130 140 134 148 138"
-        fill="none" stroke="url(#threadFav)" stroke-width="9" stroke-linecap="round"/>
+  <path fill="url(#bGrad)" d="M104.34 170L75.09 170L75.09 143.21L105.47 143.21Q113.21 143.21 116.98 139.25Q120.75 135.28 120.75 127.74Q120.75 120.19 116.98 116.32Q113.21 112.45 105.47 112.45L75.09 112.45L75.09 91.70L104.34 91.70Q118.87 91.70 130.38 95.19Q141.89 98.68 148.49 106.60Q155.09 114.53 155.09 127.74L155.09 130.38Q155.09 142.83 149.25 151.70Q143.40 160.57 132.08 165.28Q120.75 170 104.34 170M78.87 170L44.91 170L44.91 30L78.87 30L78.87 170M98.87 107.17L75.09 107.17L75.09 86.42L100.38 86.42Q108.11 86.42 111.60 82.55Q115.09 78.68 115.09 71.70Q115.09 64.53 111.60 60.66Q108.11 56.79 100.38 56.79L75.09 56.79L75.09 30L98.87 30Q123.02 30 136.23 40.09Q149.43 50.19 149.43 68.87L149.43 71.70Q149.43 84.72 142.74 92.55Q136.04 100.38 124.62 103.77Q113.21 107.17 98.87 107.17"/>
 </svg>

@@ -1,37 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 200" width="720" height="200" role="img" aria-label="Bravera Soft logo">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Bravera logo">
   <defs>
-    <linearGradient id="threadLogo" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FF6B5B"/>
+    <linearGradient id="bGrad" x1="10%" y1="0%" x2="90%" y2="100%">
+      <stop offset="0%" stop-color="#5B2A86"/>
+      <stop offset="50%" stop-color="#FF6B5B"/>
       <stop offset="100%" stop-color="#14B8A6"/>
     </linearGradient>
-    <mask id="cutLogo">
-      <rect x="0" y="0" width="200" height="260" fill="white"/>
-      <circle cx="118" cy="138" r="22" fill="black"/>
-    </mask>
-    <style>
-      .wordmark { font-family: 'Sora', Arial, sans-serif; }
-    </style>
   </defs>
-
-  <g transform="translate(15, 15) scale(0.65)">
-    <path mask="url(#cutLogo)" fill="#5B2A86" d="
-      M 100 10
-      C 145 8 178 38 172 80
-      C 168 118 182 158 162 192
-      C 150 222 116 248 88 250
-      C 58 252 28 204 30 158
-      C 20 130 16 90 40 60
-      C 56 30 72 12 100 10
-      Z
-    "/>
-    <path d="M 92 122 C 100 112 110 132 118 122 C 126 112 134 132 142 122"
-          fill="none" stroke="url(#threadLogo)" stroke-width="6" stroke-linecap="round"/>
-    <path d="M 92 154 C 100 144 110 164 118 154 C 126 144 134 164 142 154"
-          fill="none" stroke="url(#threadLogo)" stroke-width="6" stroke-linecap="round"/>
-  </g>
-
-  <text x="195" y="125" font-size="64" class="wordmark">
-    <tspan font-weight="700" fill="#5B2A86">Bravera</tspan>
-    <tspan font-weight="400" fill="#1F1B24"> Soft</tspan>
-  </text>
+  <path fill="url(#bGrad)" d="M104.34 170L75.09 170L75.09 143.21L105.47 143.21Q113.21 143.21 116.98 139.25Q120.75 135.28 120.75 127.74Q120.75 120.19 116.98 116.32Q113.21 112.45 105.47 112.45L75.09 112.45L75.09 91.70L104.34 91.70Q118.87 91.70 130.38 95.19Q141.89 98.68 148.49 106.60Q155.09 114.53 155.09 127.74L155.09 130.38Q155.09 142.83 149.25 151.70Q143.40 160.57 132.08 165.28Q120.75 170 104.34 170M78.87 170L44.91 170L44.91 30L78.87 30L78.87 170M98.87 107.17L75.09 107.17L75.09 86.42L100.38 86.42Q108.11 86.42 111.60 82.55Q115.09 78.68 115.09 71.70Q115.09 64.53 111.60 60.66Q108.11 56.79 100.38 56.79L75.09 56.79L75.09 30L98.87 30Q123.02 30 136.23 40.09Q149.43 50.19 149.43 68.87L149.43 71.70Q149.43 84.72 142.74 92.55Q136.04 100.38 124.62 103.77Q113.21 107.17 98.87 107.17"/>
 </svg>

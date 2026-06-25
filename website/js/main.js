@@ -1,5 +1,5 @@
 /* =========================================================
-   Bravera Soft — main.js
+   Bravera — main.js
    Toggle de idioma (ES/EN), menú móvil, fade-in al scroll,
    y simulación de envío de formulario de contacto.
    Sin dependencias externas.
@@ -23,7 +23,7 @@
       "hero.ctaClient": "Cotiza tu proyecto",
       "hero.ctaTalent": "Únete al equipo",
 
-      "mision.eyebrow": "Por qué Bravera Soft",
+      "mision.eyebrow": "Por qué Bravera",
       "mision.title": "Nuestra misión",
       "mision.lead": "Ser la red líder de desarrollo de software liderada por mujeres en América, entregando soluciones tecnológicas de calidad enterprise a empresas de todo el continente, mientras construimos el mayor pipeline de talento femenino en tecnología de la región.",
 
@@ -97,7 +97,7 @@
       "hero.ctaClient": "Get a quote",
       "hero.ctaTalent": "Join the team",
 
-      "mision.eyebrow": "Why Bravera Soft",
+      "mision.eyebrow": "Why Bravera",
       "mision.title": "Our mission",
       "mision.lead": "To be the leading network of women-led software development in the Americas, delivering enterprise-quality technology solutions to companies across the continent, while building the largest pipeline of female tech talent in the region.",
 
