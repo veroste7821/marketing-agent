@@ -1,0 +1,60 @@
+<svg width="640" height="200" viewBox="0 0 640 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="EllasTech logo">
+  <defs>
+    <linearGradient id="stitchGradientLogo" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF6B5B"/>
+      <stop offset="100%" stop-color="#14B8A6"/>
+    </linearGradient>
+    <style>
+      .word-ellas { font-family: 'Sora', 'Arial', sans-serif; font-weight: 700; }
+      .word-tech { font-family: 'Sora', 'Arial', sans-serif; font-weight: 400; }
+    </style>
+  </defs>
+
+  <!-- Isotipo, escalado y trasladado dentro de un grupo de 160x160 -->
+  <g transform="translate(20, 20) scale(0.3125)">
+    <!-- Norteamerica -->
+    <path d="
+      M 196 36
+      C 260 18, 332 26, 366 64
+      C 392 92, 388 128, 360 150
+      C 386 162, 400 184, 392 210
+      C 384 234, 358 246, 332 240
+      C 320 256, 300 264, 282 258
+      C 270 280, 248 290, 228 282
+      C 222 300, 206 310, 188 304
+      C 200 286, 196 266, 180 254
+      C 158 256, 138 244, 134 222
+      C 130 200, 144 182, 166 176
+      C 150 160, 148 138, 160 118
+      C 146 104, 144 84, 158 68
+      C 168 52, 182 42, 196 36
+      Z"
+      fill="#5B2A86"/>
+    <!-- Istmo -->
+    <path d="M 230 290 C 250 298, 268 300, 286 294 C 292 314, 296 332, 308 346 C 286 354, 262 352, 244 340 C 230 330, 224 310, 230 290 Z" fill="#5B2A86"/>
+    <!-- Sudamerica -->
+    <path d="
+      M 252 350
+      C 288 344, 322 356, 336 384
+      C 348 408, 344 432, 328 452
+      C 336 468, 332 484, 316 492
+      C 298 500, 280 492, 272 476
+      C 256 480, 240 472, 236 456
+      C 220 458, 206 446, 206 428
+      C 206 412, 218 400, 234 398
+      C 224 382, 228 364, 244 354
+      C 246 352, 250 351, 252 350
+      Z"
+      fill="#5B2A86"/>
+    <!-- Hilo -->
+    <path d="M 175 100 C 225 132, 205 185, 252 215 C 296 243, 272 295, 282 340 C 290 375, 268 400, 278 432"
+          fill="none" stroke="url(#stitchGradientLogo)" stroke-width="14"
+          stroke-linecap="round" stroke-dasharray="1 24"/>
+    <path d="M 175 100 C 225 132, 205 185, 252 215 C 296 243, 272 295, 282 340 C 290 375, 268 400, 278 432"
+          fill="none" stroke="url(#stitchGradientLogo)" stroke-width="4"
+          stroke-linecap="round" opacity="0.95"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="200" y="122" font-size="64" class="word-ellas" fill="#5B2A86">Ellas<tspan class="word-tech" fill="#1F1B24">Tech</tspan></text>
+</svg>
