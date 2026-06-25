@@ -29,10 +29,13 @@ visuales.
 3. **Publicar el sitio.** El sitio en `website/` es estático: se puede desplegar tal cual
    en Netlify, Vercel, GitHub Pages o Cloudflare Pages sin build step. Apuntar el dominio
    registrado ahí.
-4. **Conectar el formulario de contacto.** Hoy el formulario de `website/index.html`
-   solo muestra un mensaje de éxito en pantalla (no envía nada — ver comentario en
-   `website/js/main.js`). Antes de lanzar, conectarlo a un servicio real (Formspree,
-   un email `hola@braverasoft.dev`, o un backend propio).
+4. **Formulario de contacto.** El formulario de `website/index.html` ya está conectado
+   vía `mailto:` a `info@braverasoft.com.ar` (ver `website/js/main.js`): al enviar, abre
+   el cliente de correo del usuario con el mensaje pre-completado hacia esa dirección.
+   Antes de lanzar, crear/activar la cuenta `info@braverasoft.com.ar` (requiere tener
+   registrado el dominio `.com.ar`). Si más adelante se quiere un formulario que envíe
+   directo sin depender del cliente de correo del visitante, se puede migrar a un
+   servicio real (Formspree o un backend propio).
 
 ### Semana 1 — Cuentas y primer contenido
 5. **Crear las cuentas sociales** siguiendo `social-media/README.md` (LinkedIn, Instagram,
@@ -51,7 +54,8 @@ visuales.
    proyecto" / "Únete al equipo".
 
 ## Pendientes conocidos (no bloqueantes para lanzar, pero a resolver pronto)
-- El formulario de contacto no tiene backend real todavía (ver punto 4).
+- El formulario de contacto usa `mailto:` a `info@braverasoft.com.ar` (ver punto 4) — falta
+  crear esa cuenta de correo y registrar el dominio `.com.ar` para que funcione.
 - Tamaño de equipo y ubicación legal en `social-media/linkedin.md` están con valores
   placeholder — ajustar con el headcount real antes de publicar la página de LinkedIn.
 - Verificar disponibilidad de los handles `@braverasoft` en las tres redes antes de

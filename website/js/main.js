@@ -237,7 +237,7 @@
     });
   }
 
-  /* ---------- Formulario de contacto (sin backend) ---------- */
+  /* ---------- Formulario de contacto (mailto, sin backend) ---------- */
   function initContactForm() {
     var form = document.getElementById("contact-form");
     var successMsg = document.getElementById("form-success");
@@ -251,13 +251,14 @@
         return;
       }
 
-      // No hay backend real: mostramos confirmación en pantalla.
-      // Alternativa simple: descomentar para abrir el cliente de correo.
-      // var name = form.name.value;
-      // var email = form.email.value;
-      // var interest = form.interest.value;
-      // var message = form.message.value;
-      // window.location.href = "mailto:hola@braverasoft.dev?subject=Contacto%20" + encodeURIComponent(interest) + "&body=" + encodeURIComponent("Nombre: " + name + "\nEmail: " + email + "\n\n" + message);
+      var name = form.name.value;
+      var email = form.email.value;
+      var interest = form.interest.value;
+      var message = form.message.value;
+
+      // Sin backend propio: abrimos el cliente de correo del usuario
+      // con el mensaje pre-completado hacia info@braverasoft.com.ar.
+      window.location.href = "mailto:info@braverasoft.com.ar?subject=Contacto%20" + encodeURIComponent(interest) + "&body=" + encodeURIComponent("Nombre: " + name + "\nEmail: " + email + "\n\n" + message);
 
       successMsg.hidden = false;
       form.reset();
