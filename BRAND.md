@@ -1,31 +1,31 @@
-# Corazana — Brand Book
+# Bravera Soft — Brand Book
 
 ## Nombre y posicionamiento
-**Corazana** — deriva de "corazón" (ES) / "coração" (PT), comunicando calidez, cercanía y un
-trabajo hecho con propósito real, no solo discurso corporativo. Se lee y suena igual de bien en
-español, portugués e inglés (los tres idiomas principales del continente), y no es una palabra de
-diccionario: es un nombre propio, lo que reduce el riesgo de confusión con otras marcas. La
-identidad de mujeres-liderando-tecnología se comunica a través del posicionamiento y la narrativa de
-marca, no de forma literal en el nombre.
+**Bravera Soft** — "Bravera" deriva de "brava/valiente" en español (mujer fuerte, decidida, que no
+se achica), combinado con "Soft" (software), comunicando una marca de tecnología hecha por mujeres
+valientes. Se lee con fluidez en español, portugués e inglés (los tres idiomas principales del
+continente).
 
-> Nota de naming: se descartó el nombre original "EllasTech" por colisión directa con una empresa
-> de software existente (Elastech / getelastech.com, fonéticamente idéntica). Se recomienda que el
-> fundador haga una búsqueda formal de marca registrada en los países objetivo antes de registrar
-> "Corazana" legalmente; la verificación hecha aquí fue solo una búsqueda web exploratoria.
+> Nota de naming: el nombre fue elegido directamente por el fundador. Búsqueda exploratoria
+> detectó un vecino cercano en el mismo rubro — **Brava Software Solutions** (bravasoftware.com,
+> estudio de software a medida) — a una sola letra de distancia de "Bravera". No es una colisión
+> idéntica como la de "EllasTech"/"Elastech", pero sí vale la pena que el fundador haga una
+> búsqueda formal de marca registrada en los países objetivo antes de registrar "Bravera Soft"
+> legalmente, y que considere reforzar el diferencial visual/verbal frente a "Brava" en el
+> mercado angloparlante.
 
 - **Categoría**: Software house / consultora de desarrollo de software.
 - **Diferencial**: Equipo 100% liderado y compuesto por mujeres, con alcance y equipos distribuidos
   en toda América (Norteamérica, Centroamérica, Caribe y Sudamérica, incluyendo Brasil).
-- **Dominio sugerido**: corazana.dev (alternativas: corazana.io, getcorazana.com, corazanatech.com
-  — verificar disponibilidad antes de registrar, ya que corazana.com está tomado por un tercero sin
-  relación con software)
-- **Handles sugeridos** (mismo handle en todas las redes): `@corazana` (alternativa si está tomado:
-  `@corazanatech`)
+- **Dominio sugerido**: braverasoft.dev (alternativas: braverasoft.com, braverasoft.io,
+  getbravera.com — verificar disponibilidad antes de registrar)
+- **Handles sugeridos** (mismo handle en todas las redes): `@braverasoft` (alternativa si está
+  tomado: `@bravera.soft`)
 
 ## Tagline
 - ES (principal): **"Software hecho por mujeres, para toda América."**
-- ES corta: **"Tecnología con corazón, liderada por mujeres."**
-- EN: **"Software built by women. With heart, for the whole Americas."**
+- ES corta: **"Tecnología valiente, liderada por mujeres."**
+- EN: **"Software built by women. Bold, for the whole Americas."**
 - PT: **"Software feito por mulheres, para toda a América."**
 
 ## Misión
@@ -71,11 +71,11 @@ concretos, no solo discurso de propósito.
 - Cuerpo: **Inter** — Google Fonts
 
 ### Logo (concepto)
-Wordmark "**Corazana**" en una sola pieza, peso bold, en violeta (`#5B2A86`), fuente Sora.
-Isotipo: silueta abstracta del continente americano con un pequeño corte/hueco en forma de corazón
-en su interior, atravesado por un hilo continuo en gradiente coral → turquesa que entra y sale del
-corazón (efecto "stitch"/puntada). Simboliza un continente unido por mujeres que trabajan con
-propósito real. El isotipo funciona solo como ícono de perfil/favicon.
+Wordmark "**Bravera**" en peso bold (violeta `#5B2A86`) + "**Soft**" en peso regular (casi negro
+`#1F1B24`), fuente Sora. Isotipo: silueta abstracta del continente americano con un pequeño
+corte/hueco en su interior, atravesado por un hilo continuo en gradiente coral → turquesa que entra
+y sale de ese hueco (efecto "stitch"/puntada). Simboliza un continente unido por mujeres que
+trabajan con propósito real. El isotipo funciona solo como ícono de perfil/favicon.
 
 ### Tono fotográfico/gráfico
 Formas geométricas suaves, gradientes coral-turquesa-violeta, ilustración flat de mapa de América,

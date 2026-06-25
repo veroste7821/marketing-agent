@@ -1,25 +1,25 @@
-# Threads — Corazana
+# Threads — Bravera Soft
 
 ## Datos del perfil
 
 | Campo | Valor sugerido |
 |---|---|
-| Handle | @corazana |
-| Nombre visible | Corazana |
+| Handle | @braverasoft |
+| Nombre visible | Bravera Soft |
 
 ## Bio breve
 
 ```
 💜 Software hecho por mujeres, para toda América.
 Hablamos de tech, código y la industria sin filtro.
-👇 corazana.dev
+👇 braverasoft.dev
 ```
 
 ## 12 posts de lanzamiento
 
 ### 1. Anuncio (post simple)
 ```
-Acabamos de lanzar Corazana: una software house liderada 100% por mujeres, operando de México a Argentina, de Canadá a Brasil.
+Acabamos de lanzar Bravera Soft: una software house liderada 100% por mujeres, operando de México a Argentina, de Canadá a Brasil.
 
 Si necesitas un equipo de desarrollo serio (y con valores reales), seguinos. Esto recién empieza. 💜
 ```
@@ -29,7 +29,7 @@ Si necesitas un equipo de desarrollo serio (y con valores reales), seguinos. Est
 [1/2] Nos cansamos de ver el mismo patrón: empresas que dicen valorar la diversidad pero contratan equipos técnicos donde las mujeres son la excepción, no la regla.
 ```
 ```
-[2/2] Así que armamos lo contrario: un equipo 100% liderado por mujeres, con el mismo (o mejor) nivel técnico que cualquier software house enterprise. Eso es Corazana.
+[2/2] Así que armamos lo contrario: un equipo 100% liderado por mujeres, con el mismo (o mejor) nivel técnico que cualquier software house enterprise. Eso es Bravera Soft.
 ```
 
 ### 3. Dato curioso
@@ -50,7 +50,7 @@ Contanos en los comentarios 👇
 ```
 Una opinión impopular (o no tanto): "diversidad" no debería ser una casilla que marcás en el reporte de RSE. Debería ser una decisión de negocio, porque los equipos diversos entregan mejores resultados.
 
-En Corazana lo vivimos todos los días.
+En Bravera Soft lo vivimos todos los días.
 ```
 
 ### 6. Hilo — Cómo trabajamos (3 posts)
@@ -75,7 +75,7 @@ No es una frase bonita para el sitio web. Es una línea en cada contrato. Así d
 ```
 Brasil tiene uno de los ecosistemas tech más grandes de América Latina, pero las mujeres en roles de ingeniería de software ahí también son minoría.
 
-"Corazón" en español, "coração" en portugués: casi la misma palabra. No fue casualidad el nombre.
+"Bravera" viene de "brava": mujer fuerte, decidida, que no se achica. Tampoco fue casualidad el nombre.
 ```
 
 ### 9. Pregunta directa a developers
@@ -89,7 +89,7 @@ Queremos entender esto bien, porque estamos armando programas para resolverlo.
 ```
 La excusa de "no encontramos talento femenino senior" ya caducó. El talento existe. Lo que falta son empresas dispuestas a darle proyectos reales, no solo pasantías de relleno.
 
-En Corazana, ese talento lidera los proyectos, no los acompaña.
+En Bravera Soft, ese talento lidera los proyectos, no los acompaña.
 ```
 
 ### 11. Hilo — Detrás de cámaras (2 posts)
@@ -97,7 +97,7 @@ En Corazana, ese talento lidera los proyectos, no los acompaña.
 [1/2] Hoy tuvimos daily stand-up con compañeras en México, Colombia, Brasil y Canadá. Cuatro países, una sola llamada.
 ```
 ```
-[2/2] Así es un día normal en Corazana: distintos acentos, mismo objetivo. Esto es lo que significa "alcance panamericano" en la práctica, no en el slide.
+[2/2] Así es un día normal en Bravera Soft: distintos acentos, mismo objetivo. Esto es lo que significa "alcance panamericano" en la práctica, no en el slide.
 ```
 
 ### 12. CTA breve

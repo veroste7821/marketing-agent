@@ -1,13 +1,13 @@
-# Instagram — Corazana
+# Instagram — Bravera Soft
 
 ## Datos del perfil
 
 | Campo | Valor sugerido |
 |---|---|
-| Handle | @corazana |
-| Nombre visible | Corazana |
+| Handle | @braverasoft |
+| Nombre visible | Bravera Soft |
 | Categoría | Empresa de tecnología de la información / Software house |
-| Link en bio | corazana.dev (o link tipo Linktree con: Cotizar proyecto / Únete al equipo / LinkedIn) |
+| Link en bio | braverasoft.dev (o link tipo Linktree con: Cotizar proyecto / Únete al equipo / LinkedIn) |
 
 ## Bio (máx. 150 caracteres)
 
@@ -44,10 +44,10 @@
 ## 10 posts de lanzamiento
 
 ### Post 1 — Anuncio de lanzamiento
-**Imagen:** Fondo violeta profundo `#5B2A86` con el isotipo del mapa de América "cosido" en gradiente coral-turquesa, wordmark "Corazana" en blanco, tipografía Sora bold.
+**Imagen:** Fondo violeta profundo `#5B2A86` con el isotipo del mapa de América "cosido" en gradiente coral-turquesa, wordmark "Bravera Soft" en blanco, tipografía Sora bold.
 **Caption:**
 ```
-Llegó Corazana. 💜
+Llegó Bravera Soft. 💜
 
 Somos la software house liderada 100% por mujeres que conecta talento tech de México a Argentina, de Canadá a Brasil.
 
@@ -55,20 +55,20 @@ Construimos software con estándares enterprise y, en cada proyecto, financiamos
 
 Bienvenidos a una nueva forma de hacer software en América.
 
-#Corazana #MujeresEnTech #SoftwareHouse #LATAM #TechLatam #MujeresQueProgram #DesarrolloDeSoftware #StartupLatam #TechParaTodos #SororidadTech #WomenInTech #CodingWomen #TecnologiaConProposito #InnovaciónLatam #DesarrolloWeb #MujeresEnTecnologia #AméricaLatina #BuiltByWomen #FemTech #TechCommunity
+#Bravera Soft #MujeresEnTech #SoftwareHouse #LATAM #TechLatam #MujeresQueProgram #DesarrolloDeSoftware #StartupLatam #TechParaTodos #SororidadTech #WomenInTech #CodingWomen #TecnologiaConProposito #InnovaciónLatam #DesarrolloWeb #MujeresEnTecnologia #AméricaLatina #BuiltByWomen #FemTech #TechCommunity
 ```
 
 ### Post 2 — Presentación del equipo
 **Imagen:** Foto/collage tipo grid de 4-6 miembras del equipo en videollamada o ilustración flat de mujeres trabajando, paleta coral-turquesa-violeta de fondo.
 **Caption:**
 ```
-Detrás de Corazana hay developers, diseñadoras y arquitectas de software repartidas por todo el continente. 🌎👩‍💻
+Detrás de Bravera Soft hay developers, diseñadoras y arquitectas de software repartidas por todo el continente. 🌎👩‍💻
 
 No estamos en una sola oficina. Estamos en CDMX, Bogotá, São Paulo, Buenos Aires, Toronto y muchas ciudades más, trabajando juntas para entregar software de calidad enterprise.
 
 Esta es nuestra red. Y está creciendo.
 
-#Corazana #EquipoRemoto #MujeresEnTech #TrabajoRemoto #DesarrolladorasLatam #TechTeam #SororidadTech #LATAM #MujeresQueProgram #RemoteWork #DiversidadEInclusion #WomenWhoCode #TalentoLatam #TechCareers #CulturaRemota
+#Bravera Soft #EquipoRemoto #MujeresEnTech #TrabajoRemoto #DesarrolladorasLatam #TechTeam #SororidadTech #LATAM #MujeresQueProgram #RemoteWork #DiversidadEInclusion #WomenWhoCode #TalentoLatam #TechCareers #CulturaRemota
 ```
 
 ### Post 3 — Caso de uso de servicio
@@ -81,22 +81,22 @@ Arquitectura cloud + desarrollo full-stack + UX research, con un equipo dedicado
 
 Resultado: una plataforma lista para crecer sin fricciones.
 
-Esto es lo que hacemos todos los días en Corazana.
+Esto es lo que hacemos todos los días en Bravera Soft.
 
-#Corazana #CloudComputing #DesarrolloDeSoftware #CasosDeExito #StaffAugmentation #TechSolutions #SoftwareHouse #LatamTech #ProductoDigital #UXUI #Escalabilidad #TechBusiness
+#Bravera Soft #CloudComputing #DesarrolloDeSoftware #CasosDeExito #StaffAugmentation #TechSolutions #SoftwareHouse #LatamTech #ProductoDigital #UXUI #Escalabilidad #TechBusiness
 ```
 
 ### Post 4 — Pilar de impacto / becas
-**Imagen:** Ilustración flat de una mujer joven frente a una laptop con el mapa de América de fondo en gradiente coral-turquesa, texto destacado "Becas Corazana".
+**Imagen:** Ilustración flat de una mujer joven frente a una laptop con el mapa de América de fondo en gradiente coral-turquesa, texto destacado "Becas Bravera Soft".
 **Caption:**
 ```
 Cada proyecto que entregamos financia una beca de programación para una mujer en América Latina. 💜
 
 No es una promesa de marketing, es parte de nuestro modelo de negocio: un % de cada contrato va directo a becas, mentorías y certificaciones.
 
-Cuando trabajas con Corazana, también inviertes en la próxima generación de developers.
+Cuando trabajas con Bravera Soft, también inviertes en la próxima generación de developers.
 
-#BecasTech #Corazana #ImpactoSocial #MujeresEnTech #EducaciónTech #OportunidadesLatam #ProgramaDeBecas #TechParaTodas #FuturoTech #InclusionDigital #LatamTech #CodingForGirls
+#BecasTech #Bravera Soft #ImpactoSocial #MujeresEnTech #EducaciónTech #OportunidadesLatam #ProgramaDeBecas #TechParaTodas #FuturoTech #InclusionDigital #LatamTech #CodingForGirls
 ```
 
 ### Post 5 — Reclutamiento de talento
@@ -111,7 +111,7 @@ No buscamos llenar una cuota. Buscamos elevar el estándar técnico de cada proy
 
 Aplica con el link en nuestra bio.
 
-#Corazana #TrabajoRemoto #DesarrolladorasLatam #MujeresEnTech #VacantesTech #FreelanceDev #TalentoLatam #TechJobs #ProgramadorasLatam #RemoteJobs #UneteAlEquipo #WomenWhoCode
+#Bravera Soft #TrabajoRemoto #DesarrolladorasLatam #MujeresEnTech #VacantesTech #FreelanceDev #TalentoLatam #TechJobs #ProgramadorasLatam #RemoteJobs #UneteAlEquipo #WomenWhoCode
 ```
 
 ### Post 6 — Educativo / mujeres en tech
@@ -122,24 +122,24 @@ Dato real: los equipos con mayor diversidad de género entregan mejores resultad
 
 Y aun así, las mujeres siguen siendo minoría en roles técnicos senior en América Latina. No por falta de talento, sino por falta de acceso y oportunidades.
 
-En Corazana vemos lo contrario todos los días: mujeres listas para liderar proyectos enterprise, solo necesitaban la oportunidad.
+En Bravera Soft vemos lo contrario todos los días: mujeres listas para liderar proyectos enterprise, solo necesitaban la oportunidad.
 
 Deslicen para ver más datos →
 
-#MujeresEnTech #DatosTech #DiversidadEInclusion #BrechaDeGenero #LatamTech #WomenInSTEM #Corazana #TechEquity #GenderGapInTech #InnovaciónConProposito
+#MujeresEnTech #DatosTech #DiversidadEInclusion #BrechaDeGenero #LatamTech #WomenInSTEM #Bravera Soft #TechEquity #GenderGapInTech #InnovaciónConProposito
 ```
 
 ### Post 7 — Detrás de cámaras
 **Imagen:** Foto candid estilo "screenshot" de videollamada de equipo o foto de laptop con stickers/mate/café, ambiente cálido, colores tierra + acento turquesa.
 **Caption:**
 ```
-Así se ve un daily stand-up en Corazana: cuatro países, una pantalla, un objetivo. ☕💻
+Así se ve un daily stand-up en Bravera Soft: cuatro países, una pantalla, un objetivo. ☕💻
 
 No siempre es glamoroso (hay deploys a media noche y bugs tercos) pero lo hacemos en equipo, sin importar en qué ciudad amanezca cada una.
 
 Así construimos software. Así construimos comunidad.
 
-#DetrásDeCamaras #EquipoRemoto #CulturaTech #Corazana #DevLife #WorkFromAnywhere #TechTeam #MujeresEnTech #RemoteCulture #StartupLife
+#DetrásDeCamaras #EquipoRemoto #CulturaTech #Bravera Soft #DevLife #WorkFromAnywhere #TechTeam #MujeresEnTech #RemoteCulture #StartupLife
 ```
 
 ### Post 8 — CTA cotizar proyectos
@@ -152,14 +152,14 @@ Desarrollo web, mobile, cloud, IA aplicada o un equipo dedicado: te decimos con 
 
 La primera conversación no tiene costo. Link en bio para cotizar.
 
-#Corazana #CotizaTuProyecto #SoftwareHouse #DesarrolloDeSoftware #TechSolutions #StartupLatam #ProductoDigital #ConsultoriaTech #InnovaciónDigital #LatamBusiness
+#Bravera Soft #CotizaTuProyecto #SoftwareHouse #DesarrolloDeSoftware #TechSolutions #StartupLatam #ProductoDigital #ConsultoriaTech #InnovaciónDigital #LatamBusiness
 ```
 
 ### Post 9 — Pilares de la marca (carrusel)
 **Imagen:** Carrusel de 4 slides, una por pilar (Sororidad y talento / Excelencia técnica / Alcance panamericano / Impacto con propósito), cada slide con un color de la paleta distinto.
 **Caption:**
 ```
-4 pilares que nos definen en Corazana 👇
+4 pilares que nos definen en Bravera Soft 👇
 
 1️⃣ Sororidad y talento: red de developers de México a Argentina, de Canadá a Brasil.
 2️⃣ Excelencia técnica: entregas enterprise en web, mobile, cloud, datos e IA.
@@ -168,40 +168,40 @@ La primera conversación no tiene costo. Link en bio para cotizar.
 
 Así trabajamos. Así crecemos.
 
-#Corazana #SoftwareHouse #MujeresEnTech #PilaresDeMarca #LatamTech #ExcelenciaTecnica #ImpactoConProposito #TechPanamericano #SororidadTech #WomenInTech
+#Bravera Soft #SoftwareHouse #MujeresEnTech #PilaresDeMarca #LatamTech #ExcelenciaTecnica #ImpactoConProposito #TechPanamericano #SororidadTech #WomenInTech
 ```
 
 ### Post 10 — Testimonio / prueba social (placeholder para primer cliente o beta)
 **Imagen:** Cita destacada sobre fondo violeta noche con comillas grandes en turquesa, formato "quote card".
 **Caption:**
 ```
-"Encontramos en Corazana no solo un equipo técnico sólido, sino un partner que entendió nuestro negocio desde el día uno."
+"Encontramos en Bravera Soft no solo un equipo técnico sólido, sino un partner que entendió nuestro negocio desde el día uno."
 
-Así describen nuestros primeros clientes la experiencia de trabajar con Corazana. Y recién estamos empezando. 💜
+Así describen nuestros primeros clientes la experiencia de trabajar con Bravera Soft. Y recién estamos empezando. 💜
 
 ¿Quieres ser el próximo caso de éxito? Cotiza tu proyecto, link en bio.
 
-#Corazana #Testimonios #SoftwareHouse #ClientesSatisfechos #DesarrolloDeSoftware #LatamTech #ConfianzaDigital #PartnerTecnologico #CasosDeExito #MujeresEnTech
+#Bravera Soft #Testimonios #SoftwareHouse #ClientesSatisfechos #DesarrolloDeSoftware #LatamTech #ConfianzaDigital #PartnerTecnologico #CasosDeExito #MujeresEnTech
 ```
 
 ## 3 ideas de Reels para el lanzamiento
 
-### Reel 1 — "Así nace Corazana"
+### Reel 1 — "Así nace Bravera Soft"
 **Formato:** 30-45 segundos, ritmo rápido, texto en pantalla + música trending instrumental.
 **Guión:**
 1. (0-3s) Texto en pantalla: "¿Qué pasa cuando un equipo 100% de mujeres construye software para toda América?"
 2. (3-15s) Cortes rápidos: manos escribiendo código, video llamadas, mapa de América animado con el "hilo" cosiéndose entre países.
 3. (15-30s) Texto: "Web. Mobile. Cloud. IA. Producto digital." (cada palabra con un corte/zoom).
-4. (30-40s) Cierre con logo animado y voz en off o texto: "Corazana. Software hecho por mujeres, para toda América."
+4. (30-40s) Cierre con logo animado y voz en off o texto: "Bravera Soft. Software hecho por mujeres, para toda América."
 5. CTA final: "Cotiza tu proyecto — link en bio."
 
-### Reel 2 — "Un día en la vida de una developer Corazana"
+### Reel 2 — "Un día en la vida de una developer Bravera Soft"
 **Formato:** 45-60 segundos, estilo vlog/POV.
 **Guión:**
 1. Mañana: café, abre laptop, daily stand-up con compañeras de otros países (mostrar mini mapa con banderas/ciudades).
 2. Bloque de trabajo: pair programming, código en pantalla, mensajes de Slack con emojis de apoyo.
 3. Tarde: mentoría rápida a una junior o sesión de feedback.
-4. Cierre: texto en pantalla "Así se trabaja en Corazana: sin oficina fija, con un equipo que sí está presente."
+4. Cierre: texto en pantalla "Así se trabaja en Bravera Soft: sin oficina fija, con un equipo que sí está presente."
 5. CTA: "¿Quieres unirte? Link en bio."
 
 ### Reel 3 — "Mito vs. realidad: mujeres en tech"
@@ -210,8 +210,8 @@ Así describen nuestros primeros clientes la experiencia de trabajar con Corazan
 1. Texto mito: "Las mujeres no llegan a roles técnicos senior por falta de talento."
 2. Corte / sonido de "error": "Falso."
 3. Texto realidad + dato: "Es falta de acceso y oportunidades. Los equipos diversos entregan mejores resultados."
-4. Mostrar clip rápido del equipo Corazana trabajando.
-5. Cierre: "En Corazana, cerramos esa brecha proyecto a proyecto." + logo.
+4. Mostrar clip rápido del equipo Bravera Soft trabajando.
+5. Cierre: "En Bravera Soft, cerramos esa brecha proyecto a proyecto." + logo.
 6. CTA: "Síguenos para más" + link en bio.
 
 ## Cadencia de publicación sugerida

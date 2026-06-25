@@ -1,5 +1,5 @@
 /* =========================================================
-   Corazana — main.js
+   Bravera Soft — main.js
    Toggle de idioma (ES/EN), menú móvil, fade-in al scroll,
    y simulación de envío de formulario de contacto.
    Sin dependencias externas.
@@ -23,7 +23,7 @@
       "hero.ctaClient": "Cotiza tu proyecto",
       "hero.ctaTalent": "Únete al equipo",
 
-      "mision.eyebrow": "Por qué Corazana",
+      "mision.eyebrow": "Por qué Bravera Soft",
       "mision.title": "Nuestra misión",
       "mision.lead": "Ser la red líder de desarrollo de software liderada por mujeres en América, entregando soluciones tecnológicas de calidad enterprise a empresas de todo el continente, mientras construimos el mayor pipeline de talento femenino en tecnología de la región.",
 
@@ -80,7 +80,7 @@
       "form.submit": "Enviar mensaje",
       "form.success": "¡Gracias! Recibimos tu mensaje y te contactaremos pronto.",
 
-      "footer.tagline": "Tecnología sin fronteras, liderada por mujeres.",
+      "footer.tagline": "Tecnología valiente, liderada por mujeres.",
       "footer.rights": "Todos los derechos reservados."
     },
 
@@ -97,7 +97,7 @@
       "hero.ctaClient": "Get a quote",
       "hero.ctaTalent": "Join the team",
 
-      "mision.eyebrow": "Why Corazana",
+      "mision.eyebrow": "Why Bravera Soft",
       "mision.title": "Our mission",
       "mision.lead": "To be the leading network of women-led software development in the Americas, delivering enterprise-quality technology solutions to companies across the continent, while building the largest pipeline of female tech talent in the region.",
 
@@ -154,7 +154,7 @@
       "form.submit": "Send message",
       "form.success": "Thank you! We received your message and will be in touch soon.",
 
-      "footer.tagline": "Technology without borders, led by women.",
+      "footer.tagline": "Bold technology, led by women.",
       "footer.rights": "All rights reserved."
     }
   };
@@ -257,7 +257,7 @@
       // var email = form.email.value;
       // var interest = form.interest.value;
       // var message = form.message.value;
-      // window.location.href = "mailto:hola@corazana.dev?subject=Contacto%20" + encodeURIComponent(interest) + "&body=" + encodeURIComponent("Nombre: " + name + "\nEmail: " + email + "\n\n" + message);
+      // window.location.href = "mailto:hola@braverasoft.dev?subject=Contacto%20" + encodeURIComponent(interest) + "&body=" + encodeURIComponent("Nombre: " + name + "\nEmail: " + email + "\n\n" + message);
 
       successMsg.hidden = false;
       form.reset();

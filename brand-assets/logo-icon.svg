@@ -1,53 +1,28 @@
-<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="EllasTech isotipo">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 260" width="200" height="260" role="img" aria-label="Bravera Soft isotipo">
   <defs>
-    <linearGradient id="stitchGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="thread" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#FF6B5B"/>
       <stop offset="100%" stop-color="#14B8A6"/>
     </linearGradient>
+    <mask id="cut">
+      <rect x="0" y="0" width="200" height="260" fill="white"/>
+      <circle cx="118" cy="138" r="22" fill="black"/>
+    </mask>
   </defs>
 
-  <!-- Norteamerica: bloque ancho superior -->
-  <path d="
-    M 196 36
-    C 260 18, 332 26, 366 64
-    C 392 92, 388 128, 360 150
-    C 386 162, 400 184, 392 210
-    C 384 234, 358 246, 332 240
-    C 320 256, 300 264, 282 258
-    C 270 280, 248 290, 228 282
-    C 222 300, 206 310, 188 304
-    C 200 286, 196 266, 180 254
-    C 158 256, 138 244, 134 222
-    C 130 200, 144 182, 166 176
-    C 150 160, 148 138, 160 118
-    C 146 104, 144 84, 158 68
-    C 168 52, 182 42, 196 36
-    Z"
-    fill="#5B2A86"/>
+  <path mask="url(#cut)" fill="#5B2A86" d="
+    M 100 10
+    C 145 8 178 38 172 80
+    C 168 118 182 158 162 192
+    C 150 222 116 248 88 250
+    C 58 252 28 204 30 158
+    C 20 130 16 90 40 60
+    C 56 30 72 12 100 10
+    Z
+  "/>
 
-  <!-- Istmo centroamericano -->
-  <path d="M 230 290 C 250 298, 268 300, 286 294 C 292 314, 296 332, 308 346 C 286 354, 262 352, 244 340 C 230 330, 224 310, 230 290 Z" fill="#5B2A86"/>
-
-  <!-- Sudamerica: bloque inferior -->
-  <path d="
-    M 252 350
-    C 288 344, 322 356, 336 384
-    C 348 408, 344 432, 328 452
-    C 336 468, 332 484, 316 492
-    C 298 500, 280 492, 272 476
-    C 256 480, 240 472, 236 456
-    C 220 458, 206 446, 206 428
-    C 206 412, 218 400, 234 398
-    C 224 382, 228 364, 244 354
-    C 246 352, 250 351, 252 350
-    Z"
-    fill="#5B2A86"/>
-
-  <!-- Hilo / puntada continua (stitch) que atraviesa todo el continente, gradiente coral -> turquesa -->
-  <path d="M 175 100 C 225 132, 205 185, 252 215 C 296 243, 272 295, 282 340 C 290 375, 268 400, 278 432"
-        fill="none" stroke="url(#stitchGradient)" stroke-width="14"
-        stroke-linecap="round" stroke-dasharray="1 24"/>
-  <path d="M 175 100 C 225 132, 205 185, 252 215 C 296 243, 272 295, 282 340 C 290 375, 268 400, 278 432"
-        fill="none" stroke="url(#stitchGradient)" stroke-width="4"
-        stroke-linecap="round" opacity="0.95"/>
+  <path d="M 92 122 C 100 112 110 132 118 122 C 126 112 134 132 142 122"
+        fill="none" stroke="url(#thread)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 92 154 C 100 144 110 164 118 154 C 126 144 134 164 142 154"
+        fill="none" stroke="url(#thread)" stroke-width="6" stroke-linecap="round"/>
 </svg>
